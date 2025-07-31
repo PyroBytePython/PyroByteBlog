@@ -10,7 +10,7 @@
 
 ## ❓ Зачем я это пишу
 
-![Motivation](https://unsplash.com/photos/a-purple-and-black-background-with-a-purple-and-black-logo-QUwM2LDVs3A?w=800)  
+![Motivation](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800)  
 
 
 Когда я решил сменить профессию, мне **очень не хватало реальных историй** от людей, которые не были из IT.  
